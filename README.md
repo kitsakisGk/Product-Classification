@@ -323,12 +323,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Data Challenge 2025 organizers
 - Amazon Product Co-Purchase dataset
 
-## Contact
-
-**Georgios Kitsakis**
-- GitHub: [@kitsakisGk](https://github.com/kitsakisGk)
-- LinkedIn: [Add your LinkedIn]
-
 ---
 
 <div align="center">
