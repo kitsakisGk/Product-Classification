@@ -313,9 +313,6 @@ product-classification/
 | Graph (Node2Vec + CalibratedRF) | 0.2768 | - |
 | Ensemble (Optimized) | 0.2453 | **0.2006** |
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
